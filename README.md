@@ -1,12 +1,16 @@
-- 🔭 I’m currently working on [Labrin](https://labrin.tech/).
+- 🔭 I’m currently working on Labrin(https://labrin.tech/).
 - 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about VueJS or any tech-related stuff.
-- 📫 How to reach me: [Email - pasanurmerdanov@gmail.com] , [Instagram - @pashanur_merdanov](https://www.instagram.com/pashanur_merdanov/),[Facebook - @Paşanur Mərdanov](https://www.facebook.com/profile.php?id=100022317907578) , [Linkedin - @Pashanur Mardanov](https://www.linkedin.com/in/pashanur-mardanov-57797b193/)
+- 📫 How to reach me:   Email - pasanurmerdanov@gmail.com,pashanur.m@labrin.tech
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours coding  while listening to songs every day.
 
+**Contact with me:**
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin - @Pashanur Mardanov(https://www.linkedin.com/in/pashanur-mardanov-57797b193/)]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram - @pashanur_merdanov(https://www.instagram.com/pashanur_merdanov/)]
+
+
 **Languages and Tools:**
-<br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
