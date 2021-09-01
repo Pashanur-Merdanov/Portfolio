@@ -7,16 +7,26 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://www.google.com/search?q=html+icon&sxsrf=AOaemvJLcKTEOeJOCcQ40tCFFQSEDi6n3A:1630476645482&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjfrpLqjt3yAhWUhf0HHRXcCQwQ_AUoAXoECAEQAw&biw=1312&bih=637#imgrc=R9XpWWNEguxOJM"></code>
-<code><img height="20" src="https://www.google.com/search?q=css+icon&sxsrf=AOaemvJxrmX596nPW_gpbkS7S9Zg93k9bQ:1630476683730&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj3y7D8jt3yAhXThf0HHUFmCaEQ_AUoAXoECAEQAw&biw=1312&bih=637#imgrc=Ol5fuyVbLFZt6M"></code>
-<code><img height="20" src="https://www.google.com/search?q=sass+icon&sxsrf=AOaemvKZ9m8KJyTO5etSjlc7pvYpglBvFw:1630476718474&tbm=isch&source=iu&ictx=1&fir=DWoBx3_DnE7uIM%252Ccwjn1ximL82itM%252C_&vet=1&usg=AI4_-kSIXAhSWSm_h_tTdku69o8LdW8qtw&sa=X&ved=2ahUKEwi8r_mMj93yAhVBhf0HHbzTAyEQ9QF6BAgKEAE&biw=1312&bih=637#imgrc=sMwx2nAvy1o7YM"></code>
-<code><img height="20" src="https://www.google.com/search?q=bootstrap+icon&sxsrf=AOaemvKs-YJZsgG_t5YUwuXUE675cda5Sw:1630476738320&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjs37SWj93yAhVshP0HHQ9WCo8Q_AUoAXoECAEQAw&biw=1312&bih=637#imgrc=d5lHVwznWcZk7M"></code>
+**Languages and Tools:**
+<!-- JavaScript -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.google.com/search?q=reactjs+icon&sxsrf=AOaemvIPOrePK09SAkU6Dl1wjW5fs9qOBw:1630476598851&tbm=isch&source=iu&ictx=1&fir=wtcuELIVRLcbZM%252Cnfz2qKo0MFLwMM%252C_&vet=1&usg=AI4_-kSxJ546v3fnchq30UrxlK5X3h_fAg&sa=X&ved=2ahUKEwirpPTTjt3yAhWQ_rsIHaI8ClsQ9QF6BAgEEAE&biw=1312&bih=637#imgrc=wtcuELIVRLcbZM"></code>
+<!-- VueJS -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://www.google.com/search?q=django+icon&sxsrf=AOaemvIFrJKDBp5ygT7icqrgZADqCP-M3Q:1630476777238&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPkfyoj93yAhUrhf0HHUMGDugQ_AUoAXoECAEQAw&biw=1312&bih=637#imgrc=Seu7frlu8fa7DM"></code>
-<code><img height="20" src="https://www.google.com/search?q=php+icon&sxsrf=AOaemvJt4OR9lgDrnj_Uw3VhSzQdaGuMNA:1630476804433&tbm=isch&source=iu&ictx=1&fir=aLVKeb_HrVgxUM%252Cb_Q7ajbpp_LEhM%252C_&vet=1&usg=AI4_-kRggEhsyQtuzL8jCPhjfGCy_ioskg&sa=X&ved=2ahUKEwjO_Pe1j93yAhXZg_0HHUfxCkkQ9QF6BAgCEAE&biw=1312&bih=637#imgrc=aLVKeb_HrVgxUM"></code>
-<code><img height="20" src="https://www.google.com/search?q=laravel+icon&sxsrf=AOaemvJ5xWeli3cMIWh2kzlGNIKVUMElcw:1630476843429&tbm=isch&source=iu&ictx=1&fir=5eygYhYofy0tiM%252C4WL6kTOSKZsA-M%252C_&vet=1&usg=AI4_-kQRiDroNYjN-av95uWoJej9f9fbOA&sa=X&ved=2ahUKEwjZjcTIj93yAhUZhf0HHcLFC4oQ9QF6BAgKEAE&biw=1312&bih=637#imgrc=l6LsZXWdIZkuwM"></code>
-<code><img height="20" src="https://www.google.com/search?q=figma+icon&sxsrf=AOaemvIFFavzL881RnTTVimFPk5VsCoxQQ:1630476896916&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiz24Tij93yAhWvgP0HHV_JBYwQ_AUoAXoECAEQAw&biw=1312&bih=637#imgrc=yAx0VsiO5bOQZM"></code>
-<code><img height="20" src="https://www.google.com/search?q=photoshop+icon&sxsrf=AOaemvLAXZoFhb-219W8rNOx1eSmN4fRvQ:1630476939322&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF06D2j93yAhUj_rsIHeBCDTcQ_AUoAXoECAEQAw&biw=1312&bih=637#imgrc=KDIpfSUJ14TywM"></code>
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
