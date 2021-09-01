@@ -16,11 +16,11 @@
 
 <br>
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][@Pashanur Mardanov(https://www.linkedin.com/in/pashanur-mardanov-57797b193/)]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[Linkedin - @Pashanur Mardanov(](https://www.linkedin.com/in/pashanur-mardanov-57797b193/)
 
 <br>
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][@pashanur_merdanov(https://www.instagram.com/pashanur_merdanov/)]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram - @pashanur_merdanov](https://www.instagram.com/pashanur_merdanov/)
 
 <br>
 
