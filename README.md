@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on [Labrin](https://labrin.tech/).
 - 🌱 I’m currently learning ReactJS.
 - 💬 Ask me about VueJS or any tech-related stuff.
-- 📫 How to reach me: Email - pasanurmerdanov@gmail.com, [Instagram - @pashanur_merdanov](https://www.instagram.com/pashanur_merdanov/),[Facebook - @Paşanur Mərdanov](https://www.facebook.com/profile.php?id=100022317907578) , [Linkedin - @Pashanur Mardanov](https://www.linkedin.com/in/pashanur-mardanov-57797b193/)
+- 📫 How to reach me: [Email - pasanurmerdanov@gmail.com] , [Instagram - @pashanur_merdanov](https://www.instagram.com/pashanur_merdanov/),[Facebook - @Paşanur Mərdanov](https://www.facebook.com/profile.php?id=100022317907578) , [Linkedin - @Pashanur Mardanov](https://www.linkedin.com/in/pashanur-mardanov-57797b193/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours coding  while listening to songs every day.
