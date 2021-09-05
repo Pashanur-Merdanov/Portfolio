@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on [Labrin](https://labrin.tech/).
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactJS & NodeJS
 - 💬 Ask me about VueJS or any tech-related stuff.
 - 📫 How to reach me: Email - pasanurmerdanov@gmail.com,pashanur.m@labrin.tech
 - 😄 Pronouns: He/His
